@@ -16,7 +16,7 @@ print(x**y)# x^y == x**y in Python
 x = -8
 print(++x)#increment and decrement is not avaiable in Python
 print(5/3)
-
+print(8//3)
 #Shorthand Operators
 x = x + 1
 x+=1
